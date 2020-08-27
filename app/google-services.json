@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "394986205886",
+    "firebase_url": "https://chat-61e6e.firebaseio.com",
+    "project_id": "chat-61e6e",
+    "storage_bucket": "chat-61e6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394986205886:android:24714dd31a01264e5ba4ef",
+        "android_client_info": {
+          "package_name": "com.revel.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394986205886-69gr242mm5smenh3050eumirvphlf4hr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.revel.chat",
+            "certificate_hash": "12cc45446fdf0c073479f40e0d849ea67bd09d69"
+          }
+        },
+        {
+          "client_id": "394986205886-gboeapjbftmgjbk828hdm4nvlsgrpivn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeED6ClyBPa1iPbV_MQIGgCW8SPrTEHsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394986205886-gboeapjbftmgjbk828hdm4nvlsgrpivn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
